@@ -1,0 +1,42 @@
+export const blogs = [
+  {
+    title: "Lorem ipsum dolor sit amet consectetur",
+    slug: "lorem-ipsum-dolor-sit-amet-consectetur",
+    description: `Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente praesentium tempore repellat veniam fugiat. Dolor perferendis odio provident asperiores deleniti!`,
+    thumbnail: "/thumbnail.png",
+    date: "2023-01-01",
+    tags: ["tag1", "tag2", "tag3", "tag4"],
+  },
+  {
+    title: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+    slug: "lorem-ipsum-dolor-sit-amet-consectetur-adipisicing-elit",
+    description: `Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente praesentium tempore repellat veniam fugiat. Dolor perferendis odio provident asperiores deleniti!`,
+    thumbnail: "/thumbnail.png",
+    date: "2023-01-02",
+    tags: ["tag1", "tag2", "tag3"],
+  },
+  {
+    title: "Lorem ipsum dolor sit amet consectetur deleniti elit.",
+    slug: "lorem-ipsum-dolor-sit-amet-consectetur-deleniti-elit",
+    description: `Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente praesentium tempore repellat veniam fugiat. Dolor perferendis odio provident asperiores deleniti!`,
+    thumbnail: "/thumbnail.png",
+    date: "2023-01-02",
+    tags: ["tag1", "tag2", "tag3"],
+  },
+  {
+    title: "Lorem  dolor sit amet provident consectetur praesentium elit.",
+    slug: "lorem-ipsum-dolor-sit-amet-provident-consectetur-praesentium-elit",
+    description: `Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente praesentium tempore repellat veniam fugiat. Dolor perferendis odio provident asperiores deleniti!`,
+    thumbnail: "/thumbnail.png",
+    date: "2023-01-02",
+    tags: ["tag1", "tag2", "tag3"],
+  },
+  {
+    title: "Lorem ipsum dolor sit provident consectetur.",
+    slug: "lorem-ipsum-dolor-sit-provident-consectetur",
+    description: `Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente praesentium tempore repellat veniam fugiat. Dolor perferendis odio provident asperiores deleniti!`,
+    thumbnail: "/thumbnail.png",
+    date: "2023-01-02",
+    tags: ["tag1", "tag2", "tag3"],
+  },
+];
